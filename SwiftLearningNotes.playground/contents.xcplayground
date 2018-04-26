@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='raw'>
+    <pages>
+        <page name='01-Basic'/>
+        <page name='02-typealies'/>
+        <page name='03-Tuple'/>
+        <page name='04-String'/>
+        <page name='05-Character'/>
+        <page name='06-Array'/>
+        <page name='07-Dictionary'/>
+        <page name='08-for'/>
+        <page name='09-while'/>
+        <page name='10-if'/>
+        <page name='11-enum &amp; switch_case'/>
+        <page name='12-声明'/>
+        <page name='13-变量'/>
+        <page name='14-Optional可选类型'/>
+        <page name='15-区间'/>
+        <page name='16-函数'/>
+        <page name='17-闭包'/>
+        <page name='18-enum枚举'/>
+        <page name='20-class类'/>
+        <page name='21-初始化构造器'/>
+        <page name='22-属性'/>
+        <page name='19-struct结构体'/>
+        <page name='23-mutating异变'/>
+        <page name='24-方法'/>
+        <page name='25-subscript下标'/>
+        <page name='26-继承重写override和阻止重写final'/>
+        <page name='27-反初始化deinit'/>
+        <page name='28-循环引用'/>
+        <page name='29-可选链'/>
+        <page name='31-defer延迟调用'/>
+        <page name='32-throw错误处理'/>
+        <page name='30-guard let 和 if let'/>
+        <page name='33-类型检查is和转换as'/>
+        <page name='34-Any &amp; AnyObject'/>
+        <page name='35-extension扩展'/>
+        <page name='36-protocol协议'/>
+        <page name='37-泛型'/>
+        <page name='38-泛型限制条件'/>
+        <page name='39-where'/>
+        <page name='40-访问权限'/>
+    </pages>
+</playground>
